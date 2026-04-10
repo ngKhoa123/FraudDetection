@@ -1,4 +1,4 @@
-# 🚀 Fraud Detection System (Imbalanced Data)
+# 🚀 Fraud Detection System
 
 ## 📌 Overview
 
